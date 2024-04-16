@@ -135,9 +135,9 @@ table {
     --cabecalho: #ffffff;
     --cinza-claro: #f0f0f0;
     --cinza: linear-gradient(97.54deg, #e6e6e6, #f0f0f0);
-    --cinza-forte: #2b2b2b;
+    --cinza-forte: #000000;
     --cinza-degrade: linear-gradient(to right, #2b2b2b, #4e4e4e);
-    --cinza-escuro: #141414;
+    --cinza-escuro: #000000;
     --ciano: #00aeff;
     --ciano-degrade: linear-gradient(to bottom, #00aeff, #00aeff);
     --branco: #ffffff;
@@ -1524,7 +1524,7 @@ hr {
 
 .novidades {
     display: flex;
-    background-color: var(--cinza-forte);
+    border: 2px solid var(--ciano);
     margin: 5em 10em;
     padding-top: 2.5em;
     border-radius: 1em;
