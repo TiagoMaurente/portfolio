@@ -1654,7 +1654,7 @@ hr {
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        background: var(--cinza-forte);
+        border: 2px solid var(--ciano);
         margin: 1em;
         padding: 0em 1em;
         border-radius: 1em;
@@ -1787,7 +1787,7 @@ hr {
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        background: var(--cinza-forte);
+        border: 2px solid var(--ciano);
         margin: 1em;
         padding: 0em 1em;
         border-radius: 1em;
@@ -1929,7 +1929,7 @@ hr {
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        background: var(--cinza-forte);
+        border: 2px solid var(--ciano);
         margin: 1em;
         padding: 0em 1em;
         border-radius: 1em;
